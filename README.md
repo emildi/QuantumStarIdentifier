@@ -1,4 +1,5 @@
 # Quantum Star Identifier
+![QSI](QSI.jpg?raw=true "QSI")
 
 ## Introduction
 
