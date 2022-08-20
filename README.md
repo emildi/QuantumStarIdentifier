@@ -11,7 +11,7 @@ Based on ideas from Qiskit's tutorial on [Quantum Kernel Machine Learning](https
 
 ### Prerequisites
 
-The software development and experiments were done on a Linux x86-64 workstation with Ubuntu 20.04.
+The software development and experiments were done on a Linux workstation (Ubuntu 20.04, CUDA 11.4) or HPC nodes (CentOS 7, CUDA 10.1.243). To simulate large number of qubits and/or deep quantum circuits using a modern NVidia GPU and abundant amount of RAM is highly recommended.
 
 Instructions on how to build a similar conda environment (which should work on number of different platforms, like macOS or Windows) or recreate exact replica on the conda environment (this would only work on Linux x86-64) are in the following sections (this assumes conda and pip are already installed and configured).
 
