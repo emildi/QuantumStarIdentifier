@@ -4,7 +4,7 @@
 ## Introduction
 
 This repository contains the Python code used to produce the quantum SVM results in the MSc in AI dissertation with the title `"Investigate the Feasibility of
-Using a Quantum-Enhanced SVM Classifier for Star Identification"`. The dataset used is nto public, as was extracted from the private dataset (which was in turn generated from the Hipparcos catalog) created for the article [Efficient Star Identification Using a Neural Network](https://www.mdpi.com/1424-8220/20/13/3684) by David Rijlaarsdam et al.
+Using a Quantum-Enhanced SVM Classifier for Star Identification"`. The dataset used is not public, as was extracted from the private dataset (which was in turn generated from the Hipparcos catalog) created for the article [Efficient Star Identification Using a Neural Network](https://www.mdpi.com/1424-8220/20/13/3684) by David Rijlaarsdam et al.
 <br><br>
 Based on ideas from Qiskit's tutorial on [Quantum Kernel Machine Learning](https://github.com/Qiskit/qiskit-machine-learning/blob/main/docs/tutorials/03_quantum_kernel.ipynb).
 
